@@ -1,0 +1,119 @@
+.loginForm {
+    background: white;
+    width: 20%;
+    height: 500px;
+    position: relative;
+    left: 39%;
+    top: 40px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .formTitle{
+      position:relative;
+      left: 0;
+      font-size: 30px;
+      align-items: center;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      height: 75px;
+      display:flex;
+      margin-bottom: 40px;
+  }
+
+  .formTitle label{
+      margin: 0;
+      padding:0;
+      position: relative;
+      top: 15px;
+      height: 75px;
+  }
+
+  .formTitle label h5{
+    margin: 0;
+    padding:0;
+  }
+  
+  .line{
+      position:relative;
+      display: flex;
+      width: 230px;
+      height: 1px;
+      color: rgba(190, 190, 190, 1);
+  }
+
+  .formControl {
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+   
+  }
+  
+  .formControl label {
+    display: block;
+    position:relative;
+    left: 5%;
+    width: 50%;
+    line-height: 23px;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .formControl input {
+    width: 80%;
+    height: 30px;
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 3px 7px;
+    font-size: 17px;
+    border-radius: 5px;
+    font-size: 15px;
+  }
+
+  .databaseInput{
+    width: 80%;
+    height: 30px;
+    margin: 0;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 3px 7px;
+    font-size: 17px;
+    border-radius: 5px;
+    font-size: 15px;
+    color: E8E8E8, 100%;
+  }
+
+  .line2{
+    position:relative;
+    display: flex;
+    width: 230px;
+    height: 1px;
+    color: rgba(190, 190, 190, 1);
+
+  }
+
+  .btn{
+      margin-top: 10px;
+      color: white;
+      background: #2E937A;
+      border-radius: 5px;
+      width: 200px;
+      height: 30px;
+      font-size: 18px;
+      position: relative;
+      left: 10%;    
+  }
+
+  .nombres{
+      margin-top: 20px;
+      align-items: center;
+      text-align: center;
+      font-size: 10px;
+  }
+  
+

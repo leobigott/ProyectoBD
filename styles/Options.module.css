@@ -1,0 +1,124 @@
+.title span {
+    color: #918686;
+    padding-top: 10px;
+    padding-left: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 23px;
+    align-items: center;
+    text-align: center;
+    display:flex;
+  }
+
+  .formControl input{
+    width: 80%;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    color: #918686;
+    position: relative;
+    left: 150px;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+
+  }
+
+  .formControl{
+    width: 100%;
+
+  }
+
+  .text{
+    color: #918686;
+    padding:0;
+    padding-left: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 23px;
+    align-items: center;
+    text-align: center;
+    display:flex;
+    width: 75%;
+    margin: 0;
+  }
+
+  .newTitle{
+    margin: 0;
+    padding: 0;
+    width: 37%;
+    height: 60px;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+  }
+
+  .new{
+    padding:0;
+    padding:0;
+    padding-top: 0;
+    display: flex;
+    color: #2E937A;
+    line-height: 23px;
+    align-items: center;
+    text-align: center;
+  }
+
+  .newBtn{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    position: absolute;
+    left: 5px;
+    height: 40%;
+    top: 40%;
+    display:flex;
+
+  }
+
+  .btn2{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-size: 20px;
+  }
+
+
+  .barra{
+    position: relative;
+    background: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100px;
+  }
+  
+  .title a:hover,
+  .title a:focus,
+  .title a:active {
+    text-decoration: underline;
+  }
+  
+  .title {
+    margin: 0;
+    width: 40%;
+    height: 60px;
+  }
+  
+  .title,
+  .description {
+    text-align: center;
+  }
+  
+  .description {
+    line-height: 1.5;
+    font-size: 1.5rem;
+  }
